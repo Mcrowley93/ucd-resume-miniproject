@@ -66,4 +66,10 @@ header {
     margin: 0;
 }
 
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
 
