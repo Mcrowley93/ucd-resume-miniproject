@@ -177,5 +177,15 @@ footer .cv-pdf i:hover{
     -o-transition: all 0.35s ease-in-out;
 }
 
+.social-links li a i:hover{
+    background: #e84610;
+}
+
+#footer-details{
+    margin: 20px;
+}
+
+
+
 
 
