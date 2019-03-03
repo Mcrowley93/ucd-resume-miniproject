@@ -24,7 +24,7 @@
 }
 
 
-/* ----------------------------- SPECIAL PADDING.MARGINS/TEXT ----------------------------- */
+/* ----------------------------- SPECIAL PADDING.MARGINS/TEXT & GENERAL STYLE RULES ----------------------------- */
 
 h1,
 h2,
@@ -41,6 +41,10 @@ h4 {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     color: #fafafa;
+}
+
+.inline-block {
+    display: inline-block;
 }
 
 /* ----------------------------- HEADER ----------------------------- */
