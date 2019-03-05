@@ -55,12 +55,6 @@ h4 {
     display: inline-block;
 }
 
-.section-column {
-    padding: 0 30px 30px;
-    float: none;
-    display: table-cell;
-}
-
 .row-table {
     display: table;
 }
@@ -223,9 +217,15 @@ footer .cv-pdf i:hover{
 
 /* ----------------------------- Personal Info ----------------------------- */
 
+/* ----------------------------- Media Queries ----------------------------- */
 
-
-
+@media(min-width: 992px){
+    .section-column {
+        padding: 0 30px 30px;
+        float: none;
+        display: table-cell;
+    }
+}
 
 
 
